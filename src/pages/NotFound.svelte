@@ -13,6 +13,7 @@
           <a href="/" class="btn btn-primary mt-4">Kembali ke halaman rumah</a>
         </div>
         <!-- .xs-heading-title END -->
+        <!-- END -->
       </div>
       <!-- .row end -->
     </div>
