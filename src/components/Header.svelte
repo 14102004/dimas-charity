@@ -30,7 +30,7 @@
               <span class="badge">
                 <i class="fa fa-heart" />
               </span>
-              Donasi Sekarang
+              Kontol
             </a>
           </div>
           <!-- .xs-navs-button END -->
