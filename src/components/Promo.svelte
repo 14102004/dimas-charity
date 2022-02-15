@@ -5,7 +5,7 @@
         <h2 class="xs-mb-0 xs-title">
           Kami telah mendanai
           <span>120,00 charity projects</span>
-          for
+          untuk
           <br />
           20M orang diseluruh dunia.
         </h2>
