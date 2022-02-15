@@ -7,10 +7,10 @@
             alt=""
             width="450"
             height="450" />
-          <h2 class="xs-title">Wow! You Are So Kind</h2>
+          <h2 class="xs-title">Wow! Anda sangat baik</h2>
           <p>
-            Your donation has been successfully transferred into their account and
-            we will send the details to your email.
+            Donasi Anda telah berhasil ditransfer ke rekening mereka dan
+            kami akan mengirimkan detailnya ke email Anda.
           </p>
           <a href="/" class="btn btn-primary mt-4">Back to Home</a>
         </div>

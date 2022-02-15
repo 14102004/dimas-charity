@@ -9,8 +9,8 @@
             width="450"
             height="450" />
           <h2 class="xs-title">Oops!</h2>
-          <p>There is something wrong with the page. I cannot find it.</p>
-          <a href="/" class="btn btn-primary mt-4">Back to the home page</a>
+          <p>Ada yang salah dengan halamannya. Saya tidak dapat menemukannya.</p>
+          <a href="/" class="btn btn-primary mt-4">Kembali ke halaman rumah</a>
         </div>
         <!-- .xs-heading-title END -->
       </div>

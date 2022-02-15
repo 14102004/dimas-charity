@@ -9,10 +9,10 @@
             height="450" />
           <h2 class="xs-title">Oops!</h2>
           <p>
-            There is something wrong with the payment please try again or cancel
-            the donation.
+            Ada yang salah dengan pembayaran, silakan coba lagi atau batalkan
+            sumbangan.
           </p>
-          <a href="/" class="btn btn-primary mt-4">Try Again</a>
+          <a href="/" class="btn btn-primary mt-4">Coba lagi</a>
         </div>
         <!-- .xs-heading-title END -->
       </div>
