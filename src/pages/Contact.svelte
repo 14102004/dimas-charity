@@ -22,8 +22,8 @@
     <div class="xs-black-overlay" />
     <div class="container">
       <div class="color-white xs-inner-banner-content">
-        <h2>Contact </h2>
-        <p>Give a helping hand for poor people</p>
+        <h2>Hubungi Kami</h2>
+        <p>Berikan uluran tangan untuk orang miskin</p>
         <ul class="xs-breadcumb">
           <li class="badge badge-pill badge-primary">
             <a href="index.html" class="color-white">Home /</a>
@@ -44,7 +44,7 @@
           <div class="row">
             <div class="col-lg-6">
               <div class="xs-contact-form-wraper">
-                <h4>Drop us a line</h4>
+                <h4>Beri kami garis</h4>
                 <form
                   action="#"
                   method="POST"
@@ -94,7 +94,7 @@
                   </div>
                   <!-- .input-group END -->
                   <button class="btn btn-success" type="submit" id="xs-submit">
-                    submit
+                    Kirimkan
                   </button>
                 </form>
                 <!-- .xs-contact-form #xs-contact-form END -->
