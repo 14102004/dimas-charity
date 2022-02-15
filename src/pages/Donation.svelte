@@ -82,12 +82,12 @@
       <div class="xs-black-overlay" />
       <div class="container">
         <div class="color-white xs-inner-banner-content">
-          <h2>Donate Now</h2>
+          <h2>Donasi Sekarang</h2>
           <p>{$charity.title}</p>
           <ul class="xs-breadcumb">
             <li class="badge badge-pill badge-primary">
               <a href="/" class="color-white">Home /</a>
-              Donate
+              Donasi
             </li>
           </ul>
         </div>
@@ -113,16 +113,16 @@
                 <div class="xs-heading xs-mb-30">
                   <h2 class="xs-title">{$charity.title}</h2>
                   <p class="small">
-                    To learn more about make donate charity with us visit our "
-                    <span class="color-green">Contact us</span>
-                    " site. By calling
+                    Untuk mempelajari lebih lanjut tentang berdonasi dengan kami, kunjungi kami"
+                    <span class="color-green">Hubungi Kami</span>
+                    " lokasi. Dengan menyebut
                     <span class="color-green">+44(0) 800 883 8450</span>
                     .
                   </p>
                   <h5>
-                    Your donation will be contributing
+                    Donasi Anda akan berkontribusi
                     <strong>{contribute}%</strong>
-                    of total current donation.
+                    dari total donasi saat ini.
                   </h5>
                   <span class="xs-separetor v2" />
                 </div>
@@ -136,7 +136,7 @@
                   name="xs-donation-form">
                   <div class="xs-input-group">
                     <label for="xs-donate-name">
-                      Donation Amount
+                      Jumlah donasi
                       <span class="color-light-red">**</span>
                     </label>
                     <input
@@ -151,7 +151,7 @@
                   <!-- .xs-input-group END -->
                   <div class="xs-input-group">
                     <label for="xs-donate-name">
-                      Your Name
+                      Nama Anda
                       <span class="color-light-red">**</span>
                     </label>
                     <input
@@ -165,7 +165,7 @@
                   </div>
                   <div class="xs-input-group">
                     <label for="xs-donate-email">
-                      Your Email
+                      Email Anda
                       <span class="color-light-red">**</span>
                     </label>
                     <input
@@ -184,7 +184,7 @@
                       id="xs-donate-agree"
                       bind:checked={agree} />
                     <label for="xs-donate-agree">
-                      I Agree
+                      Saya setuju
                       <span class="color-light-red">**</span>
                     </label>
                   </div>
@@ -193,7 +193,7 @@
                     <span class="badge">
                       <i class="fa fa-heart" />
                     </span>
-                    Donate now
+                    Donasi Sekarang
                   </button>
                 </form>
                 <!-- .xs-donation-form #xs-donation-form END -->
