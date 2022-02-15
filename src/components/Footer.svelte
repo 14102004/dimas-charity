@@ -8,9 +8,9 @@
               <img src="/assets/images/footer_logo.png" alt="" />
             </a>
             <p>
-              CharityPress online and raise money for charity and causes you’re
-              passionate about. CharityPress is an innovative, cost-effective
-              online.
+              CharityPress online dan mengumpulkan uang untuk amal dan menyebabkan Anda
+              tertarik tentang. CharityPress adalah inovatif, hemat biaya
+              on line.
             </p>
             <ul class="xs-social-list-v2">
               <li>
@@ -40,16 +40,16 @@
             <h3 class="widget-title">About Us</h3>
             <ul class="xs-footer-list">
               <li>
-                <a href="/">About employee</a>
+                <a href="/">Tentang karyawan</a>
               </li>
               <li>
-                <a href="#">How it works</a>
+                <a href="#">Bagaimana itu bekerja</a>
               </li>
               <li>
-                <a href="#">Careers</a>
+                <a href="#">Karir</a>
               </li>
               <li>
-                <a href="#">Press</a>
+                <a href="#">tekan</a>
               </li>
               <li>
                 <a href="#">Blog</a>
@@ -60,7 +60,7 @@
             </ul>
           </div>
           <div class="col-lg-4 col-md-6 footer-widget">
-            <h3 class="widget-title">Contact Us</h3>
+            <h3 class="widget-title">Hubungi kami</h3>
             <ul class="xs-info-list">
               <li>
                 <i class="fa fa-home" />
@@ -85,7 +85,7 @@
         <div class="row">
           <div class="col-md-6">
             <div class="xs-copyright-text">
-              <p>&copy; Copyright 2018 Charity. - All Right's Reserved</p>
+              <p>&copy; Copyright 2022 Charity. - All Right's Reserved</p>
             </div>
           </div>
           <div class="col-md-6">
