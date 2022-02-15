@@ -8,7 +8,7 @@
               <img src="/assets/images/footer_logo.png" alt="" />
             </a>
             <p>
-              CharityPress online dan mengumpulkan uang untuk amal dan menyebabkan Anda
+              CharityPress Online dan mengumpulkan uang untuk amal dan menyebabkan Anda
               tertarik tentang. CharityPress adalah inovatif, hemat biaya
               on line.
             </p>
