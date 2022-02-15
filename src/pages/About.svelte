@@ -12,12 +12,12 @@
     <div class="xs-black-overlay" />
     <div class="container">
       <div class="color-white xs-inner-banner-content">
-        <h2>About Us</h2>
-        <p>Give a helping hand for poor people</p>
+        <h2>Tentang kami</h2>
+        <p>Berikan uluran tangan untuk orang miskin</p>
         <ul class="xs-breadcumb">
           <li class="badge badge-pill badge-primary">
             <a href="index.html" class="color-white">Home /</a>
-            About
+            Tentang
           </li>
         </ul>
       </div>
@@ -59,9 +59,9 @@
           <div class="col-lg-11 content-center">
             <div class="xs-heading xs-mb-100 text-center">
               <h2 class="xs-mb-0 xs-title">
-                We are an Globian non-profit organization that
+                Kami adalah organisasi nirlaba Global yang
                 <span class="color-green">supports</span>
-                good causes and positive change all over the world.
+                tujuan baik dan perubahan positif di seluruh dunia.
               </h2>
             </div>
           </div>
@@ -70,32 +70,32 @@
         <div class="row">
           <div class="col-md-4">
             <div class="xs-about-feature">
-              <h3>Our Mission</h3>
+              <h3>Misi kita</h3>
               <p class="lead">
-                The CharityPress community was named a “Top 25 Best Global
-                Philanthropist” by Barron’s. We beat Oprah. And, Mashable named
-                CharityPress something like that.
+                Komunitas CharityPress dinobatkan sebagai “25 Terbaik Global Terbaik
+                Filantropis" oleh Barron's. Kami mengalahkan Oprah. Dan, Mashable bernama
+                CharityPress sesuatu seperti itu.
               </p>
             </div>
           </div>
           <div class="col-md-4">
             <div class="xs-about-feature">
-              <h3>Our Vission</h3>
+              <h3>Visi kami</h3>
               <p class="lead">
-                The Globian Fund for Charities seeks positive change around the
-                world through support of non-profit organizations dedicated to
-                social, cultural.
+               Dana Global untuk Amal mencari perubahan positif di sekitar
+               dunia melalui dukungan organisasi nirlaba yang didedikasikan untuk
+               sosial, budaya.
               </p>
             </div>
           </div>
           <div class="col-md-4">
             <div class="xs-about-feature">
-              <h3>Our Values</h3>
+              <h3>Nilai kita</h3>
               <ul class="xs-unorder-list play green-icon">
-                <li>Accountability</li>
-                <li>Reliability</li>
-                <li>Cost-effectiveness</li>
-                <li>Personal service</li>
+                <li>Akuntabilitas</li>
+                <li>Keandalan</li>
+                <li>Efektivitas biaya</li>
+                <li>Layanan pribadi</li>
               </ul>
             </div>
           </div>
@@ -114,8 +114,8 @@
       <div class="container">
         <div class="row col-lg-10 xs-heading mx-auto">
           <h2 class="xs-title color-white small">
-            Our agency has been present for over 30 years. We make the best for
-            all our children.
+            Agensi kami telah hadir selama lebih dari 30 tahun. Kami membuat yang terbaik untuk
+            semua anak kita.
           </h2>
         </div>
         <div class="row">
@@ -129,7 +129,7 @@
                 0
               </span>
               <span>M</span>
-              <small>Causes</small>
+              <small>Penyebab</small>
             </div>
           </div>
           <div class="col-lg-3 col-md-6">
@@ -142,7 +142,7 @@
                 0
               </span>
               <span>k</span>
-              <small>Valunteer</small>
+              <small>Sukarelawan</small>
             </div>
           </div>
           <div class="col-lg-3 col-md-6">
@@ -155,7 +155,7 @@
                 0
               </span>
               <span>k</span>
-              <small>Childrens</small>
+              <small>anak-anak</small>
             </div>
           </div>
           <div class="col-lg-3 col-md-6">
@@ -168,7 +168,7 @@
                 0
               </span>
               <span>k</span>
-              <small>Countrys</small>
+              <small>negara</small>
             </div>
           </div>
         </div>
@@ -184,12 +184,12 @@
       <div class="container">
         <div class="xs-heading row xs-mb-60">
           <div class="col-md-9 col-xl-9">
-            <h2 class="xs-title">What We Do</h2>
+            <h2 class="xs-title">Apa yang kita lakukan</h2>
             <span class="xs-separetor dashed" />
             <p>
-              It allows you to gather monthly subscriptions from fans to help fund
-              your creative projects. They also encourage their users to offer
-              rewards to fans as a way to repay them for their support.
+              Ini memungkinkan Anda mengumpulkan langganan bulanan dari penggemar untuk membantu mendanai
+              proyek kreatif Anda. Mereka juga mendorong penggunanya untuk menawarkan
+              penghargaan kepada penggemar sebagai cara untuk membayar mereka atas dukungan mereka.
             </p>
           </div>
           <!-- .xs-heading-title END -->
@@ -200,13 +200,13 @@
             <div class="xs-service-promo">
               <span class="icon-water color-orange" />
               <h5>
-                Pure Water
+                Air Murni
                 <br />
-                For Poor People
+                Untuk Orang Miskin
               </h5>
               <p>
-                663 million people drink dirty water. Learn how access to clean
-                water can improve health, boost local economies.
+                663 juta orang minum air kotor. Pelajari bagaimana akses untuk membersihkan
+                air dapat meningkatkan kesehatan, meningkatkan ekonomi lokal.
               </p>
             </div>
             <!-- .xs-service-promo END -->
@@ -215,13 +215,14 @@
             <div class="xs-service-promo">
               <span class="icon-groceries color-red" />
               <h5>
-                Healty Food
+                Makanan sehat
                 <br />
-                For Poor People
+                Untuk Orang Miskin
               </h5>
               <p>
-                663 million people drink dirty water. Learn how access to clean
-                water can improve health, boost local economies.
+                663 
+                juta orang minum air kotor. Pelajari bagaimana akses untuk membersihkan
+                air dapat meningkatkan kesehatan, meningkatkan ekonomi lokal.
               </p>
             </div>
             <!-- .xs-service-promo END -->
@@ -230,13 +231,14 @@
             <div class="xs-service-promo">
               <span class="icon-heartbeat color-purple" />
               <h5>
-                Medical
+                Medis
                 <br />
-                Facilities for People
+                Fasilitas untuk Orang
               </h5>
               <p>
-                663 million people drink dirty water. Learn how access to clean
-                water can improve health, boost local economies.
+                663 
+                juta orang minum air kotor. Pelajari bagaimana akses untuk membersihkan
+                air dapat meningkatkan kesehatan, meningkatkan ekonomi lokal.
               </p>
             </div>
             <!-- .xs-service-promo END -->
@@ -245,13 +247,13 @@
             <div class="xs-service-promo">
               <span class="icon-open-book color-green" />
               <h5>
-                Pure Education
+                Pendidikan Murni
                 <br />
-                For Every Children
+                Untuk Setiap Anak
               </h5>
               <p>
-                663 million people drink dirty water. Learn how access to clean
-                water can improve health, boost local economies.
+                663 juta orang minum air kotor. Pelajari bagaimana akses untuk membersihkan
+                air dapat meningkatkan kesehatan, meningkatkan ekonomi lokal.
               </p>
             </div>
             <!-- .xs-service-promo END -->
