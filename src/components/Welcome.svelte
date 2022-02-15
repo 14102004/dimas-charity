@@ -6,7 +6,7 @@
         style="background-image: url(assets/images/slide1.png);">
         <div class="container">
           <div class="xs-welcome-wraper color-white">
-            <h2>Hunger is stalking the globe</h2>
+            <h2>Kelaparan mengintai dunia</h2>
             <p>
               Hundreds of thousands of children experiencing or witnessing assault
               <br />
