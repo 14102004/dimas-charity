@@ -44,13 +44,13 @@
     <div class="container">
       <div class="xs-heading row xs-mb-60">
         <div class="col-md-9 col-xl-9">
-          <h2 class="xs-title">Popular Causes</h2>
+          <h2 class="xs-title">Penyebab Populer</h2>
           <span class="xs-separetor dashed" />
           <p>
-            FundPress has built a platform focused on aiding entrepreneurs,
-            startups, and
+            FundPress telah membangun platform yang berfokus untuk membantu pengusaha,
+            startup, dan
             <br />
-            companies raise capital from anyone.
+            perusahaan mengumpulkan modal dari siapa pun.
           </p>
         </div>
         <!-- .xs-heading-title END -->
@@ -91,7 +91,7 @@
                         <form>
                           <div class="form-group">
                             <label for="exampleInputAmount">
-                              Amount donation
+                              Jumlah donasi
                             </label>
                             <input
                               required
@@ -102,7 +102,7 @@
                               placeholder="Enter amount" />
                           </div>
                           <div class="form-group">
-                            <label for="exampleInputName">Your name</label>
+                            <label for="exampleInputName">Nama Anda</label>
                             <input
                               required
                               type="text"
@@ -112,7 +112,7 @@
                               placeholder="Enter full name" />
                           </div>
                           <div class="form-group">
-                            <label for="exampleInputEmail1">Email address</label>
+                            <label for="exampleInputEmail1">Alamat Email</label>
                             <input
                               required
                               type="email"
@@ -127,14 +127,14 @@
                               class="form-check-input"
                               id="exampleCheck1" />
                             <label class="form-check-label" for="exampleCheck1">
-                              I Agree
+                              Saya setuju
                             </label>
                           </div>
                         </form>
                       </div>
                       <div class="modal-footer">
                         <button type="button" class="btn btn-primary">
-                          Continue
+                          Melanjutkan
                         </button>
                       </div>
                     </div>
@@ -176,7 +176,7 @@
                 <ul class="xs-list-with-content">
                   <li class="pledged">
                     {formatCurrency(charity.pledged)}
-                    <span>Pledged</span>
+                    <span>berjanji</span>
                   </li>
                   <li>
                     <span
@@ -186,11 +186,11 @@
                       {calculateFunded(charity.pledged, charity.target)}
                     </span>
                     %
-                    <span>Funded</span>
+                    <span>didanai</span>
                   </li>
                   <li>
                     {calculateDaysRemaining(charity.date_end)}
-                    <span>Days to go</span>
+                    <span>Beberapa hari lagi</span>
                   </li>
                 </ul>
   
@@ -202,7 +202,7 @@
                   </div>
                   <div class="xs-avatar-title">
                     <a href="#">
-                      <span>By</span>
+                      <span>Oleh</span>
                       {charity.profile_name}
                     </a>
                   </div>
@@ -215,7 +215,7 @@
                   data-toggle="modal"
                   data-target="#exampleModal"
                   class="btn btn-primary btn-block">
-                  Donate This Cause
+                  Donasi Penyebab Ini
                 </a>
               </div>
               <!-- .xs-item-content END -->
