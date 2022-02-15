@@ -22,7 +22,7 @@
     <div class="xs-black-overlay" />
     <div class="container">
       <div class="color-white xs-inner-banner-content">
-        <h2>Contact Us</h2>
+        <h2>Contact </h2>
         <p>Give a helping hand for poor people</p>
         <ul class="xs-breadcumb">
           <li class="badge badge-pill badge-primary">
