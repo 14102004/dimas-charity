@@ -11,10 +11,10 @@
                 Ratusan ribu anak mengalami atau menyaksikan penyerangan
                 dan kekerasan berbasis gender lainnya.
               <br />
-              and other gender-based violence.
+              dan kekerasan berbasis gender lainnya.
             </p>
             <a href="#popularcause" class="btn btn-outline-primary">
-              View Causes
+              Lihat Kasus
             </a>
           </div>
           <!-- .xs-welcome-wraper END -->
