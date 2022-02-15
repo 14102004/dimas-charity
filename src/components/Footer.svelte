@@ -72,7 +72,7 @@
               </li>
               <li>
                 <i class="fa fa-envelope-o" />
-                <a href="mailto:kong87013@gmail.com">kong87013@gil.com</a>
+                <a href="mailto:kong87013@gmail.com">kong87013@gmail.com</a>
               </li>
             </ul>
             <!-- .xs-list-with-icon END -->
