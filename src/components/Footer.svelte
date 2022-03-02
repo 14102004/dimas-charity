@@ -22,7 +22,7 @@
               </a>
             </li>
             <li>
-              <a href="" class="color-twitter">
+              <a href="#" class="color-twitter">
                 <i class="fa fa-twitter" />
               </a>
             </li>
